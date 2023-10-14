@@ -5,7 +5,7 @@ During my internships at AttijariWafa Bank and the Ministry of Agriculture, I wo
 
 I have also completed multiple online courses and certifications, and participated in hackathons and competitions, to enhance my skills and knowledge in data science. I have a keen interest in deep learning techniques and their applications in various domains, such as NLP and CV.
 
-I am always eager to learn new things, collaborate with others, and contribute to the data science community. I am looking for a data science PFE that will challenge me, allow me to grow, and make a positive impact.
+I am always eager to learn new things, collaborate with others, and contribute to the data science community. 
 
 
 ### GitHub Stats 📊

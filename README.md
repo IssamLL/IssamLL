@@ -10,10 +10,8 @@
 
 ### GitHub Stats 📊
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=IssamLL&theme=radical&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IssamLL&theme=radical&hide_border=true" alt="GitHub Streak Stats">
-</p> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IssamLL&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/hamagistral)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IssamLL&theme=github_dark&hide_border=true)
 
 ### Views
 
